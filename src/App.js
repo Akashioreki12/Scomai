@@ -1,11 +1,10 @@
-import HeroPage from "./pages/HeroPage";
+import React from 'react';
+import Footer from './components/footer';
 
 function App() {
   return (
-    <div className="App">
-
-      <HeroPage/>
-      
+    <div className="">
+      <Footer/>
     </div>
   );
 }

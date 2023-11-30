@@ -1,12 +1,12 @@
 import React from 'react';
 import Footer from './components/footer';
+import UpperNavBar from './components/upperNavBar';
 
 function App() {
   return (
     <div className="">
-      <Footer/>
+      <UpperNavBar/>
     </div>
   );
 }
-
 export default App;
